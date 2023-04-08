@@ -9,7 +9,7 @@ Two Layer Neural Network
 
 ## 模型复现
 1. 运行selection.py查找参数。
-2. 用确定好的参数值运行twolayer.py，会输出loss及accuracy曲线，同时将最终模型保存到save_model.npz文件。
+2. 用确定好的参数值运行twolayer.py，会输出loss及accuracy曲线，可视化参数，同时将最终模型保存到save_model.npz文件。
 3. 最后运行test.py，得到测试集分类精度。
 
 ## 模型最终的参数选择
